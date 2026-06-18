@@ -20,6 +20,7 @@ This project implements and verifies a simple APB (Advanced Peripheral Bus) modu
 - ModelSim / QuestaSim
 - Quartus prime
 
+
 - ## Author
 Sankalp Poal
 M.Tech VLSI Design
